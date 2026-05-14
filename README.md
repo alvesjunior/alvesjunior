@@ -15,7 +15,7 @@ Especialista em **PHP/Laravel**, **Vue.js**, **Node.js** e arquiteturas orientad
 
 ### 📊 GitHub Stats
 
-![Flávio GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Flávio GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesjunior&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesjunior&layout=compact&langs_count=7&theme=dracula)
 
 ---
